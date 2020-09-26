@@ -3,7 +3,7 @@
     "branch": "5.1",
     "runtime": "org.kicad_pcb.KiCad",
     "runtime-version": "stable",
-    "sdk": "org.freedesktop.Sdk//19.08",
+    "sdk": "org.freedesktop.Sdk//20.08",
     "build-extension": true,
     "separate-locales": false,
     "appstream-compose": false,
@@ -16,8 +16,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/KiCad/kicad-packages3D/archive/5.1.6.tar.gz",
-                    "sha256": "c455712a9eacdbbabf3367977911152f2e616bf8f622962f0fd4f3c6ddd00038"
+                    "url": "https://github.com/KiCad/kicad-packages3D/archive/5.1.7.tar.gz",
+                    "sha256": "5420ed6a9cebb15c70210c633d0710f0a89ec43ca2ef111c0439930c8156006c"
                 },
                 {
                     "type": "file",
