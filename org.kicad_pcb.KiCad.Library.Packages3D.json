@@ -16,8 +16,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/KiCad/kicad-packages3D/archive/5.1.7.tar.gz",
-                    "sha256": "5420ed6a9cebb15c70210c633d0710f0a89ec43ca2ef111c0439930c8156006c"
+                    "url": "https://gitlab.com/kicad/libraries/kicad-packages3d/-/archive/5.1.8/kicad-packages3d-5.1.8.tar.gz",
+                    "sha256": "09a0a7417352c07ee1db0ca97c7faf6abff73df238fac7fb0a3db1f2df4cc447"
                 },
                 {
                     "type": "file",
