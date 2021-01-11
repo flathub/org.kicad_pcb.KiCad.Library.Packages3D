@@ -1,3 +1,5 @@
 {
+    "end-of-life": "The extension has been renamed to org.kicad.KiCad.Library.Packages3D",
+    "end-of-life-rebase": "org.kicad.KiCad.Library.Packages3D",
     "skip-icons-check": true
 }
